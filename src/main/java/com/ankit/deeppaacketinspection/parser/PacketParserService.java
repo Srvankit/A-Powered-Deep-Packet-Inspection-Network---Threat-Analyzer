@@ -1,4 +1,4 @@
-package com.ankit.deeppacketinspection.parser;
+package com.ankit.deeppaacketinspection.parser;
 
 public class PacketParserService {
 

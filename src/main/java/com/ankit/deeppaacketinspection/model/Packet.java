@@ -1,4 +1,4 @@
-package com.ankit.deeppacketinspection.model;
+package com.ankit.deeppaacketinspection.model;
 
 public class Packet {
 

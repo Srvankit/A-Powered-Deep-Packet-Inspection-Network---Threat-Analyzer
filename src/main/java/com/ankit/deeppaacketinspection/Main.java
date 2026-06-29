@@ -1,9 +1,5 @@
-package com.ankit.deeppacketinspection;
+package com.ankit.deeppaacketinspection;
 
 public class Main {
-
-    public static void main(String[] args) {
-
-    }
-
+    
 }
